@@ -14,5 +14,5 @@ Install these requirements step by step
 
 When installing MySQL make sure to set the root password "root" itself. 
 
-[MySQL Query Browser]([https://downloads.mysql.com/archives/installer/](https://downloads.mysql.com/archives/query/)
+[MySQL Query Browser](https://downloads.mysql.com/archives/query/)
 
