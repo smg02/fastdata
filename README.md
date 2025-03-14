@@ -13,3 +13,6 @@ Install these requirements step by step
 [MySQL Community Installer Version 5.5.27](https://downloads.mysql.com/archives/installer/)
 
 When installing MySQL make sure to set the root password "root" itself. 
+
+[MySQL Query Browser]([https://downloads.mysql.com/archives/installer/](https://downloads.mysql.com/archives/query/))
+
