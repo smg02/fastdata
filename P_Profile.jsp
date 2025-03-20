@@ -67,7 +67,7 @@
 						int i=0;
 						try 
 						{
-						   	String query="select * from publisher where username='"+user+"'"; 
+              String query = "SELECT * FROM seller WHERE username='" + user + "'";
 						   	Statement st=connection.createStatement();
 						   	ResultSet rs=st.executeQuery(query);
 					   		if ( rs.next() )
@@ -161,3 +161,4 @@
 <div align=center></div>
 </body>
 </html>
+
